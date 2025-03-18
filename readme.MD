@@ -6,7 +6,7 @@ ACC_ID=973428414381
 
 ### Permissions
 
-1.OIDC provider
+* OIDC provider
 ...
 
 eksctl utils associate-iam-oidc-provider \
