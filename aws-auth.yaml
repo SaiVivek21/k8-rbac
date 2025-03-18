@@ -9,7 +9,7 @@ data:
   mapUsers: |
     - groups:
       - default-trainee
-      userarn: arn:aws:iam::111122223333:user/admin
+      arn:aws:iam::973428414381:user/suresh
       username: suresh
 kind: ConfigMap
 metadata:
